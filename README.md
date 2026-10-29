@@ -199,4 +199,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Author
 
 **Your Name**
-[GitHub](https://github.com/YOUR-USERNAME) · [LinkedIn](https://www.linkedin.com/in/your-profile) · your.email@example.com
+[GitHub](https://github.com/adarshkasaudhan774-spec) · [LinkedIn](https://www.linkedin.com/in/adarsh-kasaudhan-992243378/) · adarshkasaudhan774@gmail.com
